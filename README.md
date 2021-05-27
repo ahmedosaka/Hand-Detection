@@ -6,7 +6,7 @@ to start with this model, you will need to install mediapipe by using your termi
        
        
  After that you will be able to run the code and get some result like the following:
- <center><img href="output-sample/hand.jpg"></center>
+ <center><img src="output-sample/hand.jpg"></center>
 
 
 
