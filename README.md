@@ -1,4 +1,4 @@
-### Hand detection model.
+### Hand detection model using mediapipe.
 
 to start with this model, you will need to install mediapipe by using your terminal:
        
